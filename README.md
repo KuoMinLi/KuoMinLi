@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @KuoMinLi.I started studying in February 2022. My goal is to become a front-end engineer.
+- 👋 Hi, I’m KuoMin Li.
 - 👀 I’m interested in Baseball, Basketball, Marathon, and Hiking.
-- 🌱 I’m currently learning Html/CSS and JaveScript.
-- 💞️ I’m looking CrossFit to collaborate on building side project.
+- 💞️ I’m looking Stock and Infographic to collaborate on building side project.
 - 📫 How to reach me :　my emaill address is tw.kuomin@gmail.com
 
 <!---
